@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "nE/OY8iTXR9dktSYLdvV8cxIG4JYG9t3fjYWmnIWb5OcnD1x+cAQ8nT/86cAde7ERGMYEnNDg+gWVs9WZM+KMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gelva\\source\\repos\\LocalizaLabSeries\\LocalizaLabSeries\\LocalizaLabSeries.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gelva\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\gelva\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\gelva\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\gelva\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\gelva\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\gelva\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
